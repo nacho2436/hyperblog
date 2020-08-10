@@ -4,7 +4,7 @@ var rect = canvas.getBoundingClientRect();
 var x = 0;
 var y = 0;
 var dibujando = false;
-color = "#EAEE08";
+color = "#FF0606";
 
 
 
