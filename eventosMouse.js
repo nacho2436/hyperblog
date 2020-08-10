@@ -47,7 +47,7 @@ function dibujar(xinicial_1, yfinal_1, xinicail_2, yfinal_2)
 
   papel.beginPath();
   papel.strokeStyle = color;
-  papel.lineWidth = 3;
+  papel.lineWidth = 5;
   papel.moveTo(xinicial_1, yfinal_1);
   papel.lineTo(xinicail_2, yfinal_2);
   papel.stroke();
